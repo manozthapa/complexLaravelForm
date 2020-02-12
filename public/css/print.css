@@ -1,0 +1,44 @@
+
+ 
+h4{
+	display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+	color:#0a0a6f;
+}
+
+.answer{
+	margin-left:15px;
+	color: #5f5a5a;
+}
+
+.col-half{
+	max-height:45px;
+}
+
+.logo{
+	max-width:200px; 
+	min-height: 100px;
+	margin:10px;
+}
+
+.content-top{
+	float: right;
+}
+
+.heading{background: #0a0a6f;margin: 64px; padding: 1px;}
+.heading h2{color: white;}
+.official{border: 1px solid #0a0a6f}
+
+.content-pp{float: left;}
+.photo-pp{float:right;border: 2px solid #0a0a6f;height: 180px;width: 120px;margin: 5px;}
+.photo-pp1{float:left;border: 2px solid #0a0a6f;height: 180px;width: 220px;margin: 8px;}
+.photo-pp2{border: 2px solid #0a0a6f;height: 120px;width: 180px;}
+.photo-pp3{border: 2px solid #0a0a6f;height: 560px;width: 100%;margin-top: 15px;}
+
+.upper-box{height: 28%;border-bottom:2px solid #0a0a6f;}
+.lower-box{width:50%;border-right: 2px solid #0a0a6f;height: 65%;}
